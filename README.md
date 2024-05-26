@@ -15,3 +15,9 @@ performance validation test
 
 ## segundo
 
+
+| API                            | avg | 99% | max  | tps   |    
+|--------------------------------|-----|-----|------|-------|
+| Regex API Thread Group         | 40  | 393 | 0715 | 10050 | 
+| Programmatic API Thread Group  | 50  | 368 | 1141 | 10388 |  
+| Hibernate API Thread Group     | 28  | 345 | 0645 | 14164 | 
